@@ -1,7 +1,6 @@
 fastapi
 uvicorn
-mysql-connector-python
+metabase-api
 groq
-fpdf
 requests
 gunicorn
