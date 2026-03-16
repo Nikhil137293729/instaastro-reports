@@ -4,3 +4,4 @@ mysql-connector-python
 groq
 fpdf
 requests
+gunicorn
