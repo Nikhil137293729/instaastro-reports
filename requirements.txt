@@ -1,4 +1,6 @@
-flask==3.0.0
-requests==2.31.0
-weasyprint==61.2
-gunicorn==21.2.0
+fastapi
+uvicorn
+mysql-connector-python
+groq
+fpdf
+requests
